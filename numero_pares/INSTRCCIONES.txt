@@ -1,0 +1,5 @@
+## Escribe un programa en C que determine si un numero es par o no del 1 al 20
+# Pasos:
+1. Imprimir los numeros, eso mediante un intervalo
+2. Determinar si es par, para eso lo dividimos entre dos (2)
+3. Imprimimos el resultado
