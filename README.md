@@ -2,7 +2,7 @@
 
 Repositorio colaborativo para prácticas y ejercicios sencillos en *C*
 
-![GIF divertido de Tenor](https://tenor.com/vzs1ARkUulX.gif)
+![GIF divertido de Tenor](https://media.tenor.com/-VqQIA-3LvsAAAAj/gatos-memes-gato-meme.gif)
 
 ## Descripción
 
