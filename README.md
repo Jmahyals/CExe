@@ -1,7 +1,7 @@
 # CExe
 
 Repositorio colaborativo para prácticas y ejercicios sencillos en C
-
+<div class="tenor-gif-embed" data-postid="17967832130725031675" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/gatos-memes-gato-meme-pixel-cat-cat-meme-cat-gif-17967832130725031675">Gatos Memes Gato Meme Sticker</a>from <a href="https://tenor.com/search/gatos+memes-stickers">Gatos Memes Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ## Descripción
 
 CExe es un proyecto creado con el propósito de facilitar la colaboración entre estudiantes de primer semestre en programación con C. Aquí encontrarás ejercicios básicos, ejemplos y prácticas que pueden ayudar a reforzar los conceptos fundamentales del lenguaje.
